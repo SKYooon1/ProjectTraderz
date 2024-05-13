@@ -17,13 +17,13 @@
 - 매수, 매도, 홀드에 대해 추천할 수 있는 알러트 구현
 	- 검색된 종목에 대해 매매 추천
 
-## 단기 목표
-- 최종 목표 기반 5월 중간발표까지의 목표
-- 10개 가량 종목이 검색되는 조건검색식 1~2개 구현
-
 ## 중간 발표
-- 
+- 키움증권 HTS 영웅문 조건검색식 조사
+- [영웅문 조건검색식 조사](./SubProjects/Conditional%20Search.md)
+![Conditional Search](./AttachedFiles/CS7.png)
+- ohlc 캔들 차트, 이동평균선, 거래량 출력 구현
 ![Celltrion Chart](./AttachedFiles/Samsung%20Electrics%20Chart.png)
+
 
 ## 회의록
 - [Meeting Log](./MeetingLogs/Meeting%20Log.md)
