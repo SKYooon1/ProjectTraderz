@@ -20,8 +20,10 @@
 ## 중간 발표
 - 키움증권 HTS 영웅문 조건검색식 조사
 - [영웅문 조건검색식 조사](./SubProjects/Conditional%20Search.md)
+
 ![Conditional Search](./AttachedFiles/CS7.png)
 - ohlc 캔들 차트, 이동평균선, 거래량 출력 구현
+
 ![Celltrion Chart](./AttachedFiles/Samsung%20Electrics%20Chart.png)
 
 
